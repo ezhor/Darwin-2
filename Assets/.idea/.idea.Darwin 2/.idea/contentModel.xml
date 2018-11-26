@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ezhor\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Darwin 2.-25603534.00" t="ExcludeRecursive" />
+    <e p="D:\Code\Darwin 2\Assets" t="IncludeFlat">
+      <e p="ClassLibrary" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CamaraScript.cs" t="Include" />
+        <e p="ClassLibrary.csproj" t="IncludeRecursive" />
+        <e p="Destructor.cs" t="Include" />
+        <e p="IndividuoScript.cs" t="Include" />
+        <e p="ManagerScript.cs" t="Include" />
+        <e p="model" t="Include">
+          <e p="Individuo.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="OffsetChanger.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Darwin 2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
